@@ -1,4 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+### Name : SUDHARSAN S
+### Reg No : 212224040334
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
